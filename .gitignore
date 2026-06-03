@@ -25,12 +25,9 @@ __pycache__/
 node_modules/
 docs/.vitepress/dist
 docs/.vitepress/cache
+.vitepress/
+preview.log
+skill/
 
 # Ignore Promo & Local Scripts
-修改计划.md
-宣传推文-公众号-优化版.md
-宣传推文-公众号.md
-figure.png
-figure.py
-推文图/
 appendix_package/
