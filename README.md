@@ -6,6 +6,7 @@
   <p>
     <a href="https://github.com/datawhalechina/happy-figure/stargazers"><img src="https://img.shields.io/github/stars/datawhalechina/happy-figure?style=flat-square" alt="GitHub Stars"></a>
     <a href="https://github.com/BAIKEMARK/happy-figure-skill"><img src="https://img.shields.io/badge/Agent%20Skill-Happy%20Figure-6D5EF8?style=flat-square" alt="Happy Figure Skill"></a>
+    <a href="https://qm.qq.com/q/ZEfzKSQ5CW"><img src="https://img.shields.io/badge/QQ%20Group-AI%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE-12B7F5?style=flat-square" alt="QQ Group"></a>
     <a href="https://github.com/datawhalechina/happy-figure/network/members"><img src="https://img.shields.io/github/forks/datawhalechina/happy-figure?style=flat-square" alt="GitHub Forks"></a>
     <a href="https://github.com/datawhalechina/happy-figure/issues"><img src="https://img.shields.io/github/issues/datawhalechina/happy-figure?style=flat-square" alt="GitHub Issues"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-lightgrey?style=flat-square" alt="License"></a>
@@ -77,7 +78,7 @@
 本项目同步提供配套 Agent Skill：
 
 - 独立仓库：[happy-figure-skill](https://github.com/BAIKEMARK/happy-figure-skill)
-- 本地中文版目录：[`skill/happy-figure-skill-zh/`](skill/happy-figure-skill-zh/)
+- 读者交流群：[【读者群】AI科研绘图：Nano Banana极速实战指南](https://qm.qq.com/q/ZEfzKSQ5CW)
 
 它可以帮助你把论文摘要、方法段、图注或研究方案，转化为适合 **Nano Banana Pro**、**Qwen Image**、**gpt-image** 等绘图模型的结构化科研绘图提示词。适合用于：
 
@@ -86,7 +87,7 @@
 - 材料、化学、生物医学机制图
 - 开题、答辩、组会汇报总览图
 
-👉 查看使用说明：[独立仓库 README](https://github.com/BAIKEMARK/happy-figure-skill) / [`skill/happy-figure-skill-zh/README.md`](skill/happy-figure-skill-zh/README.md)
+👉 查看使用说明：[happy-figure-skill README](https://github.com/BAIKEMARK/happy-figure-skill)
 
 ### ✨ 你将收获什么？
 - 📖 **开源免费**：完全免费学习本项目所有内容，与 Datawhale 社区共同成长。
