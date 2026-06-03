@@ -75,19 +75,11 @@
 
 ### 🤖 配套 Agent Skill
 
-本项目同步提供配套 Agent Skill：
+本教程的“科研绘图提示词撰写”部分已整理成配套 Agent Skill：[happy-figure-skill](https://github.com/BAIKEMARK/happy-figure-skill)。
 
-- 独立仓库：[happy-figure-skill](https://github.com/BAIKEMARK/happy-figure-skill)
-- 读者交流群：[【读者群】AI科研绘图：Nano Banana极速实战指南](https://qm.qq.com/q/ZEfzKSQ5CW)
+### 💬 读者交流群
 
-它可以帮助你把论文摘要、方法段、图注或研究方案，转化为适合 **Nano Banana Pro**、**Qwen Image**、**gpt-image** 等绘图模型的结构化科研绘图提示词。适合用于：
-
-- 图形摘要 / 论文主图
-- 技术路线图 / 模型架构图
-- 材料、化学、生物医学机制图
-- 开题、答辩、组会汇报总览图
-
-👉 查看使用说明：[happy-figure-skill README](https://github.com/BAIKEMARK/happy-figure-skill)
+加入 [【读者群】AI科研绘图：Nano Banana极速实战指南](https://qm.qq.com/q/ZEfzKSQ5CW)，一起交流教程内容、工具使用和科研绘图实践。
 
 ### ✨ 你将收获什么？
 - 📖 **开源免费**：完全免费学习本项目所有内容，与 Datawhale 社区共同成长。
