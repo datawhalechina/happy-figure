@@ -107,7 +107,7 @@ features:
 <!-- 实战卡片 -->
 <a href="/happy-figure/chapter3/" class="path-card">
   <h3 style="font-size: 1.35rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.8rem; display: flex; align-items: center; justify-content: space-between;">
-    Phase 2: 方法与实战 <span style="font-size: 0.85rem; padding: 4px 12px; border-radius: 20px; background: #eab308; color: #fff; font-weight: 600;">🚧 施工中</span>
+    Phase 2: 方法与实战 <span style="font-size: 0.85rem; padding: 4px 12px; border-radius: 20px; background: #10b981; color: #fff; font-weight: 600;">核心技能</span>
   </h3>
   <p style="color: var(--vp-c-text-2); font-size: 0.95rem; margin-bottom: 1.5rem; line-height: 1.6;">掌握技能：深入方法论探讨，通过跨学科场景实战构建清晰可控的视觉表达。</p>
   <ul class="feature-list" style="color: var(--vp-c-text-2); font-size: 0.95rem; list-style: none; padding: 0; margin: 0;">

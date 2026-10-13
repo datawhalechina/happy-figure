@@ -60,8 +60,8 @@ export default withMermaid(defineConfig({
       {
         text: '第二部分：方法与实战 (实战篇)',
         items: [
-          { text: '第三章：提示词工程 (🚧施工中)', link: '/chapter3/' },
-          { text: '第四章：场景实战 (🚧施工中)', link: '/chapter4/' }
+          { text: '第三章：提示词工程', link: '/chapter3/' },
+          { text: '第四章：场景实战', link: '/chapter4/' }
         ]
       },
       {
