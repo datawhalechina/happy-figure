@@ -111,8 +111,8 @@
 | [第一章 认识科研绘图](docs/chapter1/index.md) | AI 时代科研绘图的新范式与本质认知 | ✅ |
 | [第二章 AI 绘图核心技法与工具链](docs/chapter2/index.md) | Nano-Banana Pro 快速接入与基础操作指南 | ✅ |
 | **第二部分：方法与实战 (实战篇)** | | |
-| [第三章 提示词工程](docs/chapter3/index.md) | 结构化视觉图式 (Visual Schema) 的构建逻辑 | 🚧 |
-| [第四章 场景实战](docs/chapter4/index.md) | 材料、化学、生物、医学等学科专属出图攻略 | 🚧 |
+| [第三章 提示词工程](docs/chapter3/index.md) | 结构化视觉图式 (Visual Schema) 的构建逻辑 | ✅ |
+| [第四章 场景实战](docs/chapter4/index.md) | 材料、化学、生物、医学等学科专属出图攻略 | ✅ |
 | **第三部分：交付与合规 (进阶篇)** | | |
 | [第五章 高阶控图](docs/chapter5/index.md) | 模块化拆解、母图锚定与矢量化重构技术 | 🚧 |
 | [第六章 避坑指南](docs/chapter6/index.md) | 学术诚信、版权边界与合规引用范式 | 🚧 |
