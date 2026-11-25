@@ -120,7 +120,7 @@ features:
 <a href="/happy-figure/chapter5/" class="path-card" style="grid-column: 1 / -1; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; right: 0; width: 200px; height: 100%; background: linear-gradient(90deg, transparent, rgba(136, 196, 210, 0.05)); pointer-events: none;"></div>
   <h3 style="font-size: 1.35rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.8rem; display: flex; align-items: center; justify-content: space-between;">
-    Phase 3: 交付与合规 <span style="font-size: 0.85rem; padding: 4px 12px; border-radius: 20px; background: #8b5cf6; color: #fff; font-weight: 600;">进阶交付</span>
+    Phase 3: 交付与合规 <span style="font-size: 0.85rem; padding: 4px 12px; border-radius: 20px; border: 1px solid var(--vp-c-text-3); color: var(--vp-c-text-2); font-weight: 600;">🚧 施工中</span>
   </h3>
   <p style="color: var(--vp-c-text-2); font-size: 0.95rem; margin-bottom: 1.5rem; line-height: 1.6;">进阶修养：突破控图瓶颈，沉淀学术视觉体系</p>
   
