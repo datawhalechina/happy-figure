@@ -114,9 +114,9 @@
 | [第三章 提示词工程](docs/chapter3/index.md) | 结构化视觉图式 (Visual Schema) 的构建逻辑 | ✅ |
 | [第四章 场景实战](docs/chapter4/index.md) | 材料、化学、生物、医学等学科专属出图攻略 | ✅ |
 | **第三部分：交付与合规 (进阶篇)** | | |
-| [第五章 高阶控图](docs/chapter5/index.md) | 模块化拆解、母图锚定与矢量化重构技术 | 🚧 |
-| [第六章 避坑指南](docs/chapter6/index.md) | 学术诚信、版权边界与合规引用范式 | 🚧 |
-| [第七章 结语](docs/chapter7/index.md) | 教程总结、致谢与未来展望 | 🚧 |
+| [第五章 高阶控图](docs/chapter5/index.md) | 模块化拆解、母图锚定与矢量化重构技术 | ✅ |
+| [第六章 避坑指南](docs/chapter6/index.md) | 学术诚信、版权边界与合规引用范式 | ✅ |
+| [第七章 结语](docs/chapter7/index.md) | 教程总结、致谢与未来展望 | ✅ |
 | **附录** | | |
 | [AI 科研绘图实战速查手册](docs/appendix/quick-reference.md) | 核心工具、跨学科提示词模板与学术合规红线速查 | ✅ |
 

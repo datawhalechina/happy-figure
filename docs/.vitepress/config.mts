@@ -24,7 +24,7 @@ export default withMermaid(defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/happy-figure-logo.png',
     nav: [
-      { text: 'PDF版本下载', link: 'https://github.com/BAIKEMARK/happy-figure/releases' },
+      { text: 'PDF版本下载', link: 'https://github.com/datawhalechina/happy-figure/releases' },
     ],
     search: {
       provider: 'local',
@@ -67,12 +67,12 @@ export default withMermaid(defineConfig({
       {
         text: '第三部分：交付与合规 (进阶篇)',
         items: [
-          { text: '第五章：高阶控图 (🚧施工中)', link: '/chapter5/' },
-          { text: '第六章：避坑指南 (🚧施工中)', link: '/chapter6/' }
+          { text: '第五章：高阶控图', link: '/chapter5/' },
+          { text: '第六章：避坑指南', link: '/chapter6/' }
         ]
       },
       {
-        text: '结语 (🚧施工中)',
+        text: '结语',
         link: '/chapter7/'
       },
       {
